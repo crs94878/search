@@ -35,7 +35,7 @@ public class FilesRead {
      *Функция поиска слова в строках в конкретном файле
      * @param file Один файл в директории выбранной дирректории
      * @param word Слово поиска
-     * @return Логическое значеение - найдено слово в файле или нет
+     * @return Логическое значение - найдено слово в файле или нет
      * @throws IOException
      */
     private boolean fileParser(InputStreamReader file, String word) throws IOException{
