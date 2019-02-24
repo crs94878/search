@@ -4,7 +4,6 @@ import lce.test.search.directorychoose.DirectoryChooser;
 import lce.test.search.fileread.FilesRead;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import javax.swing.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
