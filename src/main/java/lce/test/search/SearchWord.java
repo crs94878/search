@@ -31,7 +31,7 @@ public class SearchWord {
                 System.out.println(file.getPath());
             }
         }
-        catch (IOException ex){
+        catch (NullPointerException | IOException ex){
             System.out.println(ex.getMessage());
         }
             System.exit(0);
